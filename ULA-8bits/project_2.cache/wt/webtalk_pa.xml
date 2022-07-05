@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Tue Jul 05 09:52:48 2022">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="45770d5d8fdc426baa36144e25d55948" type="ProjectID"/>
+<property name="ProjectIteration" value="2" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="OpenProject" value="1" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="2" type="JavaHandler"/>
+<property name="ReportMethodology" value="1" type="JavaHandler"/>
+<property name="RunImplementation" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="1" type="JavaHandler"/>
+<property name="ShowSource" value="1" type="JavaHandler"/>
+<property name="ViewTaskImplementation" value="1" type="JavaHandler"/>
+<property name="ViewTaskRTLAnalysis" value="2" type="JavaHandler"/>
+<property name="ZoomIn" value="4" type="JavaHandler"/>
+<property name="ZoomOut" value="3" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="PAResourceAtoD.ClosePlanner_YES, Yes" value="2" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_OPEN_PROJECT, Open Project..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ZOOM_IN, Device_zoom_in" value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ZOOM_OUT, Device_zoom_out" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FILE, File" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, -132790, 4439681" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, -581623, 4616563" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 328688, 4916337" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 337487, 4989321" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 337487, 4990874, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 341977, 4896811" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 354568, 4907020" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 424381, 4324709" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, 506188, 4523701" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_DEVICE, Device" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_PROJECT_SUMMARY, Project Summary" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="2" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 1, 196" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 100, 329" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 101, 325" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 106, 311" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 106, 332" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 114, 311" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 115, 348" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 121, 214" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 123, 359" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 128, 373" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 129, 172" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 134, 299" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 142, 323" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 143, 208" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 158, 375" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 160, 371, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 178, 287" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 184, 345" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 187, 340" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 188, 336" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 191, 327" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 196, 320" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 203, 164" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 205, 357" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 271, 254" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 273, 262" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 283, 325" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 290, 146" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 30, 195" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 322, 204" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 325, 351" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 34, 341" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 342, 181" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 363, 272" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 372, 275" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 377, 276" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 380, 208" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 387, 196" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 388, 186" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 392, 242" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 398, 196" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 399, 189" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 408, 212" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 433, 240" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 48, 334" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 482, 337" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 49, 342" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 494, 341" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 55, 115" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 58, 184" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 58, 368" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 62, 198" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 62, 215" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 89, 331" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 91, 333" value="1" type="GuiResourceData"/>
+<property name="ula8bits.vhd, 92, 328" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="4" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="0" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>
