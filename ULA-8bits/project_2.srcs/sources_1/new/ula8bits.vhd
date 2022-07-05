@@ -32,10 +32,11 @@ use IEEE.NUMERIC_STD.ALL;
 --use UNISIM.VComponents.all;
 
 entity ula8bits is
-    Port ( A : in STD_LOGIC_VECTOR (7 downto 0);
-           B : in STD_LOGIC_VECTOR (7 downto 0);
+generic(n: natural := 8);
+    Port ( A : in STD_LOGIC_VECTOR (n-1 downto 0);
+           B : in STD_LOGIC_VECTOR (n-1 downto 0);
            sel : in STD_LOGIC_VECTOR (1 downto 0);
-           saida : out STD_LOGIC_VECTOR (7 downto 0));
+           saida : out STD_LOGIC_VECTOR (n-1 downto 0));
 end ula8bits;
 architecture Behavioral of ula8bits is
 
