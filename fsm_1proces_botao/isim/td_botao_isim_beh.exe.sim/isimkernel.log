@@ -1,0 +1,10 @@
+Command line:
+   td_botao_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50519
+
+Tue Jul 19 09:26:02 2022
+
+
+ Elaboration Time: 0.171601 sec

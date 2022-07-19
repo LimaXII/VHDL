@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/SD/fsm_1proces_botao/fsM_1process_botao.xst" -ofn "C:/SD/fsm_1proces_botao/fsM_1process_botao.syr" 
+xst -intstyle ise -ifn "C:/SD/fsm_1proces_botao/fsM_1process_botao.xst" -ofn "C:/SD/fsm_1proces_botao/fsM_1process_botao.syr" 

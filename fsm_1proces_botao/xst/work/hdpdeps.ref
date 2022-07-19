@@ -1,0 +1,8 @@
+V3 3
+FL C:/SD/fsm_1proces_botao/fsM_1process_botao.vhd 2022/07/19.09:16:03 P.20131013
+EN work/fsM_1process_botao 1658232969 \
+      FL C:/SD/fsm_1proces_botao/fsM_1process_botao.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/fsM_1process_botao/Behavioral 1658232970 \
+      FL C:/SD/fsm_1proces_botao/fsM_1process_botao.vhd \
+      EN work/fsM_1process_botao 1658232969
